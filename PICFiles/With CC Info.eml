@@ -1,0 +1,261 @@
+Received: from SN6PR11MB3023.namprd11.prod.outlook.com (2603:10b6:803:41::23)
+ by SN6PR11MB2717.namprd11.prod.outlook.com with HTTPS via
+ SN4PR0501CA0046.NAMPRD05.PROD.OUTLOOK.COM; Wed, 18 Mar 2020 11:08:43 +0000
+Authentication-Results: cisco.com; dkim=none (message not signed)
+ header.d=none;cisco.com; dmarc=none action=none header.from=cisco.com;
+Received: from SN6PR11MB2717.namprd11.prod.outlook.com (2603:10b6:805:60::32)
+ by SN6PR11MB3023.namprd11.prod.outlook.com (2603:10b6:805:d3::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2814.18; Wed, 18 Mar
+ 2020 11:08:42 +0000
+Received: from SN6PR11MB2717.namprd11.prod.outlook.com
+ ([fe80::cd04:8d0b:a7f:d08d]) by SN6PR11MB2717.namprd11.prod.outlook.com
+ ([fe80::cd04:8d0b:a7f:d08d%7]) with mapi id 15.20.2835.017; Wed, 18 Mar 2020
+ 11:08:42 +0000
+From: "Preeti Agrawal (preeagra)" <preeagra@cisco.com>
+To: "Preeti Agrawal (preeagra)" <preeagra@cisco.com>
+Subject: With CC Info
+Thread-Topic: With CC Info
+Thread-Index: AQHV/RWVVjbhrxSjB0mhCpskCsQNBw==
+Date: Wed, 18 Mar 2020 11:08:42 +0000
+Message-ID: <DA5E3B07-7C0A-449D-8329-07BC7A40EE06@cisco.com>
+Accept-Language: en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <DA5E3B07-7C0A-449D-8329-07BC7A40EE06@cisco.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SN6PR11MB2717.namprd11.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [2001:420:c0c8:1004::1b]
+X-MS-Exchange-Organization-Network-Message-Id:
+ bb70d83a-1967-4473-b242-08d7cb2cb862
+X-MS-PublicTrafficType: Email
+Return-Path: preeagra@cisco.com
+X-MS-Exchange-Organization-ExpirationStartTime: 18 Mar 2020 11:08:42.9531
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: bb70d83a-1967-4473-b242-08d7cb2cb862
+X-MS-TrafficTypeDiagnostic: SN6PR11MB3023:
+X-MS-Oob-TLC-OOBClassifiers: OLM:1728;
+X-Forefront-Antispam-Report:
+ SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN6PR11MB3023;H:SN6PR11MB2717.namprd11.prod.outlook.com;FPR:;SPF:None;LANG:en;
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-AntiSpam-MessageData:
+ jl8yxXmF61dno3Prhm+O4eNxLxWEXeuaLuGXxG/FtkpBB4U3srBgdLYG8KKHpEBThKrwzgBDOTvqjY94vJfG/8rJGkifq+qyVHIGQ5mTxPSKpFvnkhSNK1OIqEH5jln/FWjZeZY74YNktv5/OjxWSKY1WMp522G1sumcSerhYO0=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Mar 2020 11:08:42.7670
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 5ae1af62-9505-4097-a69a-c1553ef7840e
+X-MS-Exchange-CrossTenant-Network-Message-Id: bb70d83a-1967-4473-b242-08d7cb2cb862
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: 7LgGPqda2kz8GcEspRCSgL8sZcBh1VJ9vXnZvp1KKgoGB5SDRhMVnPWXaQW+duoDgUK0J46Ka7vgAp/hI4zdtg==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN6PR11MB3023
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4527929
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2835.016
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750127)(520011016)(706158)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	qzVnqTcXdgk1BMHXsP7ZdmFpcA2ZfPKOYftXkwUyWRj1SR4WNV3RpYO1jRQZw89oB/E3XcD1nKEPpsTj9ot/mUgWhindVFhlJCtYD5d0krGoWHvOiEPGBLqygozIJ8QCrWEUVjmci+5zXA9fI4+IYV6/WubxQqZ25B2+OXHLJ+UeK/Uv/RD8XjI9k7uEAGIsieaireyrclH690iDEMB+2u0OjK8QyXws+5SkIRuYQLVC1Lqw4tBfAeEKxaEzNWvbkqys6I60noG0CbGxjOH2DpX8zBxffPgaQUSVskYtzXA2pOcCBq5lkr/giJUJvsgjiwWiPOARl5gcMfvGHJax7Af4TjKij3HvUNa1/W85ydJavaJtuosuJcbqI8drTg9NnR2c+976KFMy86VRRZNKBVnd2pcEv4qcJOI0t8TI4LkElriyhIrxg0VFqESW7/zlAiaOLlZP1S4a9E+tJCe1tA==
+Content-type: multipart/alternative;
+	boundary="B_3667394337_1126118408"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3667394337_1126118408
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+VISA:
+
+4024007160058284
+
+4716397025580041
+
+4972282517168934485MasterCard:
+
+5536563698871257
+
+5528452888688145
+
+5145313811263054American Express (AMEX):
+
+373535834012688
+
+342334395222888
+
+345015121643656Discover:
+
+6011059912265600
+
+6011013251420516
+
+6011126888219152376JCB:
+
+3539668316781663
+
+3544404912444537
+
+3528832025971488174Diners Club - North America:
+
+5551639078699607
+
+5556123969284931
+
+5571231871831565Diners Club - Carte Blanche:
+
+30032170731282
+
+30207461908506
+
+30414974771674Diners Club - International:
+
+36948242428124
+
+36423809255047
+
+36688970305520Maestro:
+
+6304862192849175
+
+6763462889709388
+
+6763388264641997Visa Electron:
+
+4844331255789829
+
+4026397989257730
+
+4913722395275255InstaPayment:
+
+6376205600287112
+
+6373879720100331
+
+6393745890519764
+
+
+--B_3667394337_1126118408
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:schema=
+s-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/office/20=
+04/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-IN" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">VISA:<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4024007160058284<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4716397025580041<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4972282517168934485Mast=
+erCard:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5536563698871257<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5528452888688145<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5145313811263054America=
+n Express (AMEX):<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">373535834012688<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">342334395222888<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">345015121643656Discover=
+:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6011059912265600<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6011013251420516<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6011126888219152376JCB:=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">3539668316781663<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">3544404912444537<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">3528832025971488174Dine=
+rs Club - North America:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5551639078699607<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5556123969284931<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">5571231871831565Diners =
+Club - Carte Blanche:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">30032170731282<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">30207461908506<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">30414974771674Diners Cl=
+ub - International:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">36948242428124<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">36423809255047<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">36688970305520Maestro:<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6304862192849175<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6763462889709388<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6763388264641997Visa El=
+ectron:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4844331255789829<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4026397989257730<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">4913722395275255InstaPa=
+yment:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6376205600287112<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6373879720100331<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">6393745890519764<o:p></=
+o:p></span></p>
+</div>
+</body>
+</html>
+
+
+--B_3667394337_1126118408--
+
